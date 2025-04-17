@@ -1,7 +1,7 @@
 # Coin-Toss-Game-With-Python
 ## 🪙 Coin Toss Simulator (Python)
 
-_ This is a simple Python-based Coin Toss Simulator that mimics the flipping of a coin. It randomly returns Heads or Tails every time you press Enter.
+- This is a simple Python-based Coin Toss Simulator that mimics the flipping of a coin. It randomly returns Heads or Tails every time you press Enter.
 
 ## 🚀 Features:
 
